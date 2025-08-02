@@ -1,4 +1,4 @@
-# jonas
+# hey i'm jonas
 
 master's student into artificial intelligence. aiming for a phd to push research in large language models and what they can actually do.
 
