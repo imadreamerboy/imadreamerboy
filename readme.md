@@ -16,4 +16,4 @@ leveling up my python (i suck without ai lol) and deep learning skills. looking 
 
 ---
 
-*open to phd spots in ai for the next academic year.*
+*open to phd spots in ai for the next academic year (2026).*
