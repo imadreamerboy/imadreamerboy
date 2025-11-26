@@ -12,7 +12,7 @@ master's student into artificial intelligence. aiming for a phd to push research
 
 ### current focus
 
-leveling up my python (i suck without ai lol) and deep learning skills. looking for real research collabs—if you're building cool stuff , let's chat!
+leveling up my python and deep learning skills. looking for real research collabs—if you're building cool stuff , let's chat!
 
 ---
 
